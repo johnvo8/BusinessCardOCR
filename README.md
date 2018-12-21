@@ -5,7 +5,7 @@ We’ve created a new smartphone app that enables users to snap a photo of a bus
 (https://asymmetrik.com/programming-challenges/)
 
 # Notes
-- Requires Maven and Java
+- Requires Maven and Java JDK
 - Uses Stanford CoreNLP – Natural language software (https://stanfordnlp.github.io/CoreNLP/) to help with detecting human names.
 
 # Instructions
