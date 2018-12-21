@@ -11,7 +11,10 @@ We’ve created a new smartphone app that enables users to snap a photo of a bus
 # Instructions
 1) Click on the green "Clone or download" button and click on Download ZIP
 2) Extract the contents of the ZIP file into a folder
-3) Go to that folder on a console and type "mvn clean install" (without the quotes)
+3) Go to that folder on a console and type the following:
+
+		mvn clean install
+		
 4) "BusinessCardParser.jar" will be generated inside a folder called "target"
 5) Go to the "target" folder
 6) Type the following to run the jar:
