@@ -2,8 +2,6 @@
 
 We’ve created a new smartphone app that enables users to snap a photo of a business card and have the information from the card automatically extracted and added to their contact list. We need you to write the component that parses the results of the optical character recognition (OCR) component in order to extract the name, phone number, and email address from the processed business card image.
 
-(https://asymmetrik.com/programming-challenges/)
-
 # Notes
 - Requires Maven and Java JDK
 - Uses Stanford CoreNLP – Natural language software (https://stanfordnlp.github.io/CoreNLP/) to help with detecting human names.
